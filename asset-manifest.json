@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/api-g7-front/static/css/main.3eb41715.chunk.css",
+    "main.js": "/api-g7-front/static/js/main.8ed826a9.chunk.js",
+    "main.js.map": "/api-g7-front/static/js/main.8ed826a9.chunk.js.map",
+    "runtime-main.js": "/api-g7-front/static/js/runtime-main.ebfa9236.js",
+    "runtime-main.js.map": "/api-g7-front/static/js/runtime-main.ebfa9236.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/api-g7-front/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6026f9c9.chunk.js": "/api-g7-front/static/js/2.6026f9c9.chunk.js",
+    "static/js/2.6026f9c9.chunk.js.map": "/api-g7-front/static/js/2.6026f9c9.chunk.js.map",
+    "index.html": "/api-g7-front/index.html",
+    "precache-manifest.6d405691e524f58291042eeffb53c37e.js": "/api-g7-front/precache-manifest.6d405691e524f58291042eeffb53c37e.js",
+    "service-worker.js": "/api-g7-front/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/api-g7-front/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.3eb41715.chunk.css.map": "/api-g7-front/static/css/main.3eb41715.chunk.css.map",
+    "static/js/2.6026f9c9.chunk.js.LICENSE.txt": "/api-g7-front/static/js/2.6026f9c9.chunk.js.LICENSE.txt",
+    "static/media/check-solid.svg": "/api-g7-front/static/media/check-solid.594fe4f2.svg",
+    "static/media/chevron-left-solid.svg": "/api-g7-front/static/media/chevron-left-solid.450eeb69.svg",
+    "static/media/edit-regular.svg": "/api-g7-front/static/media/edit-regular.170b4532.svg",
+    "static/media/edit-solid.png": "/api-g7-front/static/media/edit-solid.57008808.png",
+    "static/media/eye-solid.svg": "/api-g7-front/static/media/eye-solid.38842ea6.svg",
+    "static/media/fundacionObsPymeLogo.png": "/api-g7-front/static/media/fundacionObsPymeLogo.5541a2f6.png",
+    "static/media/hourglass-regular.svg": "/api-g7-front/static/media/hourglass-regular.9d289f8d.svg",
+    "static/media/isoFOP.svg": "/api-g7-front/static/media/isoFOP.5dce2f0b.svg",
+    "static/media/listSolid.svg": "/api-g7-front/static/media/listSolid.7375f330.svg",
+    "static/media/sign-out.svg": "/api-g7-front/static/media/sign-out.2dbd6693.svg",
+    "static/media/trash-alt-regular.svg": "/api-g7-front/static/media/trash-alt-regular.8f3b7fca.svg",
+    "static/media/user-solid.svg": "/api-g7-front/static/media/user-solid.23f9162d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebfa9236.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6026f9c9.chunk.js",
+    "static/css/main.3eb41715.chunk.css",
+    "static/js/main.8ed826a9.chunk.js"
+  ]
+}

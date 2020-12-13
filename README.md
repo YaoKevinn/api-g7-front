@@ -1,6 +1,6 @@
 / TPO Aplicación Interactiva 2020 2do Cuatrimestre Viernes Turno Noche
 
-/ Validación de Encuestas para Fundación Observatorio Pyme
+/ Validación de Encuestas para Empresa Fundación Observatorio Pyme
 
 / SETUP
 npm install react-router-dom

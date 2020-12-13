@@ -1,0 +1,97 @@
+.table {
+    width: 100% !important;
+    height: 100vh !important;
+    padding: 50px 80px !important;
+    overflow-y: scroll !important;
+}
+
+.table-title {
+    font: normal normal bold 25px/40px Centra No2 !important;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.survey-table{
+    font-family: Helvetica;
+    font-size: 21x;
+    color: #000000BF;
+}
+
+.survey-table > th > tr {
+    text-align: center;
+    font: normal normal bold 21px/27px Centra No2;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.tabla__row{
+    max-height: 20px;
+}
+
+.detail-eye{
+    margin-right: 5px;
+    height: 14px;
+    opacity: 4;
+    color:#777474;
+}
+
+.verDetalle {
+    margin-bottom: 0px;
+}
+
+@media (max-width: 960px) {
+    .table {
+        padding: 40px 40px;
+    }
+}
+
+.pregunta__btnAprobar {
+    width: auto;
+    height: 34px;
+    background: #5CB85C 0% 0% no-repeat padding-box;
+    border: 1px solid #5CB85C !important;
+    border-radius: 4px;
+    opacity: 1;
+    color: #fff;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none !important;
+}
+
+.pregunta__btnAprobar:hover {
+    color: #5CB85C;
+    background-color: #fff;
+}
+
+.survey-table > tr > td {
+    margin-bottom: 0 !important;
+}
+
+.modal__eliminarBtn {
+    background-color: red;
+    border: 1px solid red;
+    color: #fff;
+  }
+  
+.modal__eliminarBtn:hover {
+    border: 1px solid red;
+    background-color: #fff;
+    color: red;
+}
+
+.buttonAlta {
+    background-color: #41546E !important;
+    color: white !important;
+}
+
+.buttonAlta:hover {
+    background-color: white !important;
+    color: #41546E !important;
+    border: 1px solid #41546E;
+}
